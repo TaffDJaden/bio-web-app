@@ -1,0 +1,29 @@
+ body{background-color: #8ecae6;
+	text-align:center ;
+	color: white;
+font-family: 'Poppins', sans-serif;
+}
+
+.profile-img {
+   width: 50%;
+   border-radius: 50%;
+}
+
+h1 {
+	color: #dee2e6;
+}
+
+.btn {
+	display: block;
+	color: black; 
+	padding: 20px;
+	background-color:#0096c7; 
+	margin: 16px;
+	box-shadow: 10px 10px #caf0f8;
+
+}
+a {
+  text-decoration: none;
+  color: white;
+  
+}
